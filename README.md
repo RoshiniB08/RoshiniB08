@@ -12,7 +12,7 @@ I'm passionate about using data to solve business problems and transform raw dat
 - 📊 Interested in Data Analytics & Business Intelligence
 - 💡 Passionate about Data Visualization and Business Insights
 - 🌱 Currently learning Microsoft Power BI, SQL, Python, and Azure
-- 🎯 Goal: Secure a Data Analyst role in Germany
+- 🎯 Building practical analytics projects using SQL, Python, Power BI and Tableau.
 
 ---
 
@@ -40,10 +40,13 @@ I'm passionate about using data to solve business problems and transform raw dat
 
 ## 📚 Current Learning Journey
 
-- Microsoft Power BI
-- SQL for Data Analysis
-- Python for Data Analytics
-- Azure Data Fundamentals
+✅ Microsoft Power BI
+
+🔄 SQL for Data Analysis
+
+🔄 Python for Data Analytics
+
+📅 Azure Data Fundamentals
 
 ---
 
