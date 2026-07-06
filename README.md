@@ -58,7 +58,7 @@ Projects will be added here as I build my portfolio.
 ## 📫 Connect with Me
 
 - LinkedIn: (Add later)
-- Email: roshini.bsbi@gmail.com
+- Email: roshinibabu170403@gmail.com
 
 ---
 
